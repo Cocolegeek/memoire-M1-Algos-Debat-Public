@@ -11,10 +11,10 @@
 Étude exploratoire à dominante quantitative, fondée sur la diffusion d'un questionnaire en ligne auprès d'utilisateurs des réseaux sociaux résidant en France, complétée par une analyse thématique de questions ouvertes.
 
 Quatre hypothèses sont mises à l'épreuve :
-- **H1** — Hybridation médiatique : la boucle de rétroaction entre réseaux sociaux et médias traditionnels amplifie les contenus polarisants
-- **H2** — Asymétrie de polarisation : les algorithmes affectent davantage le climat affectif que les positions idéologiques
-- **H3** — Diffusion des responsabilités : la gouvernance du problème est diluée entre cinq catégories d'acteurs
-- **H4** — Inadéquation du levier régulatoire : décalage entre attente de régulation et connaissance des dispositifs existants
+- **Hypothèse 1** — Hybridation médiatique : la boucle de rétroaction entre réseaux sociaux et médias traditionnels amplifie les contenus polarisants
+- **Hypothèse 2** — Asymétrie de polarisation : les algorithmes affectent davantage le climat affectif que les positions idéologiques
+- **Hypothèse 3** — Diffusion des responsabilités : la gouvernance du problème est diluée entre cinq catégories d'acteurs
+- **Hypothèse 4** — Inadéquation du levier régulatoire : décalage entre attente de régulation et connaissance des dispositifs existants
 
 ## 📁 Contenu du dépôt (à venir)
 
